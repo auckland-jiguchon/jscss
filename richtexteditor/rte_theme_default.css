@@ -10,6 +10,7 @@
     background-color: #fff;
     user-select: none;
     font-family: Nanumsquare, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	    font-size: 16px !important;
 }
 
 /*.richtexteditor{
