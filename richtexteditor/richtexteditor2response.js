@@ -111,32 +111,17 @@ RTE_DefaultConfig.backColorItems = ["#000000", "#993300", "#333300", "#003300", 
 
 RTE_DefaultConfig.linkItems = [
 	"https://www.intel.com"
-	,
-	"https://www.ibm.com"
-	,
-	"https://www.microsoft.com"
-	,
-	"https://www.google.com"
-	,
-	"https://www.apple.com"
+
 ] // A predefined set of links.
 
 RTE_DefaultConfig.imageItems = [
-	"http://richtexteditor.com/uploads/1.jpg",
-	"http://richtexteditor.com/uploads/2.jpg",
-	"http://richtexteditor.com/uploads/3.jpg",
-	"http://richtexteditor.com/uploads/4.jpg",
-	"http://richtexteditor.com/uploads/5.jpg",
+	
 	"http://richtexteditor.com/uploads/6.jpg"
 ]	// For insert image by URL
 
 
 RTE_DefaultConfig.galleryImages = [
-	"http://richtexteditor.com/uploads/1.jpg",
-	"http://richtexteditor.com/uploads/2.jpg",
-	"http://richtexteditor.com/uploads/3.jpg",
-	"http://richtexteditor.com/uploads/4.jpg",
-	"http://richtexteditor.com/uploads/5.jpg",
+	
 	"http://richtexteditor.com/uploads/6.jpg"
 ]; // Default images for gallery Images dialog. 
 
